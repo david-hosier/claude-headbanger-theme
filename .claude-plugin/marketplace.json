@@ -1,0 +1,14 @@
+{
+  "name": "claude-headbanger-theme",
+  "description": "Headbanger, a pixel-art black metal stage theme for Claude Code",
+  "owner": {
+    "name": "David Hosier"
+  },
+  "plugins": [
+    {
+      "name": "headbanger",
+      "source": "./",
+      "description": "Pixel-art black metal stage theme: the band headbangs while Claude works and wanders the stage while idle"
+    }
+  ]
+}

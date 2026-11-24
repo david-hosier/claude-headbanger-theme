@@ -2,5 +2,9 @@
   "name": "headbanger",
   "version": "0.1.0",
   "description": "Pixel-art black metal stage theme: the band headbangs while Claude works and wanders the stage while idle",
+  "author": {
+    "name": "David Hosier"
+  },
+  "license": "MIT",
   "types": "./types/index.d.ts"
 }
