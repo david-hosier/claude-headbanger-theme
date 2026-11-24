@@ -1,0 +1,6 @@
+{
+  "name": "headbanger",
+  "version": "0.1.0",
+  "description": "8-bit black metal stage theme: the band headbangs while Claude works and wanders the stage while idle",
+  "types": "./types/index.d.ts"
+}
