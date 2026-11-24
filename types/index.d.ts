@@ -1,5 +1,5 @@
 declare module 'claude-code' {
   interface PluginState {
-    headbanger: { playing: boolean }
+    headbanger: { playing: boolean; crowd: number }
   }
 }
